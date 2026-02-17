@@ -9,5 +9,11 @@ This app uses the WhatsApp Business API to facilitate messaging.
 
 For questions, contact psada7025@gmail.com.
 
-Data Deletion Instructions
+**Data Deletion Instructions**
 To request the deletion of your data associated with [wa2way], please send an email to [psada7025@gmail.com] with the subject line "Data Deletion Request."Once we receive your request, we will delete your message history and contact information from our local databases within 30 days and provide a confirmation email.
+
+**Terms of Service**
+By using this service, you agree that:
+You are communicating with a business account for inquiry purposes.
+You will not use this service for any illegal or abusive purposes.
+This service is provided "as is" for MVP testing.
